@@ -72,7 +72,9 @@ options:
 
 ### 🎥 Demo
 
-![](assets/demo.gif)
+<img width="1280" height="720" alt="demo" src="https://github.com/user-attachments/assets/9f4d3c80-f8f3-4f18-bd46-cb484efc0b3d" />
+
+
 
 ## 🌞 More
 
