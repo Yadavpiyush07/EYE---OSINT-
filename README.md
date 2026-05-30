@@ -14,7 +14,6 @@
 **An automated, async Python tool for email-based Open Source Intelligence gathering**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/Category-OSINT-red?style=for-the-badge)
 
